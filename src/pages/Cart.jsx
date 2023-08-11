@@ -35,7 +35,7 @@ isEmpty?
      <div className='text-sm'>
      <h2 className='mb-1 text-lg '>{items.name}</h2>
      <p className='mb-1'>{items.price.formatted_with_symbol}</p>
-     {/* <p>Size:One Size</p> */}
+   
      </div>
     </div>
 
